@@ -1,2 +1,0 @@
-# berisha
-personalrepo
